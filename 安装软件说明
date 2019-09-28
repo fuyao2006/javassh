@@ -1,0 +1,11 @@
+openssh-server openssh ssh相关
+tzdata 时区选择
+curl 需要的命令
+nano 文本工具
+sudo 免密码登录
+bash bash-completion  bash 更新
+shadow  增加usermod useradd 等用户控制软件
+snappy 额外驱动
+procps ps 更新
+rsync  需要的命令
+coreutils  nohup更新
